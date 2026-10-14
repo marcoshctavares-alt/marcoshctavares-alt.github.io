@@ -2,7 +2,7 @@
 
 Site de portfólio pessoal de **Marcos Tavares**, desenvolvedor de software generalista, com tema de jardim botânico, modo claro e escuro e layout responsivo.
 
- **Site no ar:** https://marcoshctavares-alt.github.io/NOME-DO-REPOSITORIO/
+ **Site no ar:** https://marcoshctavares-alt.github.io
 
 ##  Recursos
 
