@@ -592,7 +592,7 @@
        Se o envio falhar, abrimos o app de e-mail do visitante com
        a mensagem já preenchida (mailto).
        ========================================================= */
-    /* const form = document.getElementById('contactForm');
+    const form = document.getElementById('contactForm');
     const status = document.getElementById('formStatus');
     const sendBtn = document.getElementById('sendBtn');
     const rules = {
@@ -650,7 +650,7 @@
         setStatus('Não consegui enviar direto. Abri seu app de e-mail com a mensagem pronta — é só enviar.', true);
       } finally {
         sendBtn.disabled = false;
-      } */
+      }
     });
 
     /* =========================================================
