@@ -1,5 +1,8 @@
 # Portfólio — Marcos Tavares
 
+<img width="1332" height="611" alt="screenport" src="https://github.com/user-attachments/assets/c6ae3a8b-acbe-4585-98c5-3d34e90b8450" />
+
+
 Site de portfólio pessoal de **Marcos Tavares**, desenvolvedor de software generalista, com tema de jardim botânico, modo claro e escuro e layout responsivo.
 
  **Site no ar:** https://marcoshctavares-alt.github.io
